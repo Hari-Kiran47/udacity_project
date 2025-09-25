@@ -1,0 +1,9 @@
+{
+	"name": "df-nycpayroll-harikiran",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "684a24ca-d22a-4c09-b0b4-dadeab350fba",
+		"tenantId": "a66fe529-8648-47c5-ae5f-358f608fb2da"
+	}
+}

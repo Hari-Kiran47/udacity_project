@@ -1,0 +1,12 @@
+{
+	"name": "LS_AzureDataLakeStorage",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "AzureBlobFS",
+		"typeProperties": {
+			"url": "https://adlsnycpayrollharikirang.dfs.core.windows.net/",
+			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkRBVEFGQUNUT1JZQEE5RjZGQURGLTUwREUtNDAwRi04OTRGLTU1NUZEMjQzOENCMl9kYTM3YjllZi0xNWY1LTQ1ZGEtODQwYS01MmM0N2FhOWM0MDUiDQp9"
+		}
+	}
+}
